@@ -1,7 +1,7 @@
 "# Array-Flatten" 
 "# Array-Flatten" 
 /**
- * Nested Arrays Flattener runnable program with tests - Java.
+ * This is my Nested Arrays Flattener runnable code with tests.
  *
  * @author Kennedy Alex Omondi Owiro {@email jambotechsolutions@gmail.com }
  */
