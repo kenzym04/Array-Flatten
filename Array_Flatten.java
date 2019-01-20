@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.LinkedList;
 
 /**
- * Nested Arrays Flattener runnable program with tests.
+ * This is my Nested Arrays Flattener runnable code with tests.
  *
  * @author Kennedy Alex Omondi Owiro {@email jambotechsolutions@gmail.com }
  */
