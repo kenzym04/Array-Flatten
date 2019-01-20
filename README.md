@@ -1,5 +1,4 @@
 "# Array-Flatten" 
-"# Array-Flatten" 
 /**
  * This is my Nested Arrays Flattener runnable code with tests.
  *
